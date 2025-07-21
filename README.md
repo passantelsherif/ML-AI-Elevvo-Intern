@@ -21,8 +21,6 @@ This repository showcases my work on a series of ML/AI tasks designed to strengt
 
 🎯 **Goal:** Predict students’ final exam scores based on study habits and lifestyle factors using a dataset of 6,607 records.
 
-📁 **Folder:** [`Task1_StudentScoreRegression`](./Task1_StudentScoreRegression)
-
 ### 📌 What I Explored
 - 🔸 **Linear Regression** — Hours Studied vs Exam Score
 - 🔸 **Polynomial Regression** — Degree 2 non-linearity
