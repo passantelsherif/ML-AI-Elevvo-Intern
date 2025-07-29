@@ -17,8 +17,8 @@ Each task focuses on applying end-to-end machine learning techniques — from da
 |------|-------|------------|
 | 1️⃣ | Predicting Student Exam Scores | Linear & Multi-Feature Regression |
 | 2️⃣ | Loan Approval Classification | Logistic Regression & Decision Trees |
-| 3️⃣ | Sales Forecasting Description | Unsupervised Learning & Clustering |
-| 4️⃣ | Movie Recommendation System |  Time series forecasting &  Regression |
+| 3️⃣ | Movie Recommendation System | Unsupervised Learning & Clustering |
+| 4️⃣ | Sales Forecasting Description |  Time series forecasting &  Regression |
 
 ---
 
